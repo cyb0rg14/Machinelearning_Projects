@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src="./assets/images/header.png" alt="Projects" width="550">
+  <img src="./assets/images/mlprojects.jpg" alt="Projects" width="550">
 </p>
 
 # Machine Learning & Deep Learning Projects 
